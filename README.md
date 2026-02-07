@@ -27,3 +27,6 @@ cd lcars-zsh-v_0.1
 | `ops`     | Git operations        |
 | `bridge`  | Full bridge readout   |
 | `cmds`    | List all commands     |
+
+<img width="835" height="786" alt="Screenshot 2026-02-07 at 9 46 01 AM" src="https://github.com/user-attachments/assets/1f49ae54-1966-47e2-b420-09062f882a92" />
+
